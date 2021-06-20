@@ -1,6 +1,5 @@
 const path = require("path");
 const webpack = require("webpack");
-// const bootstrap = require("bootstrap")
 
 module.exports = { 
     entry: './assets/js/script.js',
